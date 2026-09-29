@@ -1,4 +1,4 @@
-# Muhammad Nouman Library
+# Nouman Library
 
 Industry-style Django online library / bookstore — read online, download PDFs,
 listen to audiobooks, order books, and manage everything from a **custom
